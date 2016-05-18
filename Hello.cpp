@@ -11,7 +11,6 @@ using namespace std;
 /**
  * This is main function
  */
- //alo thinh da sua
 int main() {
 
 	return 0;
